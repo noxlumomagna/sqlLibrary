@@ -3,7 +3,7 @@ SQL Library App
 
 CRUD SQL App
 
-Functionality includes
+Functionality includes<br>
 -Adding books to library<br>
 -Updating library<br>
 -Removing Books from Library
